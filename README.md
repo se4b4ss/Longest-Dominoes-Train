@@ -1,4 +1,4 @@
-# Longest-Dominoes-Train
+# Longest Dominoes Train
 <br />
 This Python code outputs the longest "train" given a set of dominoes and a starting number/pip/target. Each successive longest train is output including same length trains as long as they are not equal.<br />
 <br />
