@@ -1,6 +1,6 @@
 # Longest Dominoes Train
 <br />
-This Python code outputs the longest "train" given a set of dominoes and a starting number/pip/target. Each successive longest train is output including same length trains.<br />
+This Python code outputs the longest "train" given a set of dominoes and a starting number/pip/target. Each successive longest (or equal length) train is output.<br />
 <br />
 Given this data (manually entered in the code):<br />
 initialTarget = 4<br />
